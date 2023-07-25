@@ -1,0 +1,36 @@
+li {
+    color: blue;
+    font-family: centaur;
+    font-style: italic;
+    font-size: 20pt;
+    text-align: center;
+    margin-left: 30px ;
+margin-top: 70px;
+}
+table, tr, td, th{
+    border: #000 solid 1px;
+    width: 450px;
+    padding: 0px;
+    font-size: 20px;
+    border-collapse:collapse;
+    }
+    td{
+        width: 150px;
+        height: 30px;
+    }
+    th{
+        background-color: blue;
+        color: #fff;
+    }
+    td{
+        background-color: blanchedalmond;
+    }
+    .yang{
+        display: flex;
+        height: 200px;
+
+    }
+    img{
+        border-radius: 20%;
+    }
+    
